@@ -1,7 +1,7 @@
-raw
-node_modules
-*.log
-*.idea
-*.swp
-nyc_output
-coverage
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
